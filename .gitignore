@@ -58,3 +58,6 @@ nunit-*.xml
 
 # Assembly folder
 /asm/build/
+
+# JetBrains Rider
+.idea/
